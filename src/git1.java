@@ -3,7 +3,7 @@ public class git1 {
     public static void main(String[] args) {
         System.out.println("hello");
         System.out.println("heello");
-        System.out.println("welcome");
+        System.out.println("welco");
        
     }
 }
